@@ -1,0 +1,6 @@
+numpy
+rasterio
+pillow
+scikit-image
+scipy
+customtkinter
